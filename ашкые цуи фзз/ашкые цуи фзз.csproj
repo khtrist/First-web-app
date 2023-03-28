@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ашкые_цуи_фзз</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\SRT\Desktop\BACKEND TASKS\Product.cs" Link="Product.cs" />
+  </ItemGroup>
+
+</Project>

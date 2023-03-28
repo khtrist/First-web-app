@@ -1,0 +1,24 @@
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\ашкые цуи фзз.exe
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\ашкые цуи фзз.deps.json
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\ашкые цуи фзз.runtimeconfig.json
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\ашкые цуи фзз.runtimeconfig.dev.json
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\ашкые цуи фзз.dll
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\bin\Debug\netcoreapp3.1\ашкые цуи фзз.pdb
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.csproj.AssemblyReference.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.AssemblyInfoInputs.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.AssemblyInfo.cs
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.csproj.CoreCompileInputs.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\staticwebassets\ашкые цуи фзз.StaticWebAssets.Manifest.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\staticwebassets\ашкые цуи фзз.StaticWebAssets.Pack.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ашкые цуи фзз.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ашкые цуи фзз.props
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ашкые цуи фзз.props
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ашкые цуи фзз.props
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.RazorTargetAssemblyInfo.cache
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.dll
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.pdb
+C:\Users\SRT\source\repos\ашкые цуи фзз\ашкые цуи фзз\obj\Debug\netcoreapp3.1\ашкые цуи фзз.genruntimeconfig.cache
